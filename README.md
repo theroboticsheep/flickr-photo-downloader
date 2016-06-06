@@ -38,7 +38,7 @@ By default, album will be saved in folder `Pictures` on `user directory`
 (eg /home/username/Pictures). If you want them to be saved to a
 different directory, you can pass its name as an optional `-d` argument:
 
-    ruby flickr-photo-downloader.rb <album_id> -d ~/Pictures/My_Album
+    ruby flickr-album-downloader.rb <album_id> -d ~/Pictures/My_Album
 
 
 Enjoy!
